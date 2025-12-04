@@ -126,6 +126,8 @@ MAC_OS_76 = Disk(name="Mac OS 7.6 HD.dsk")
 
 MAC_OS_8 = Disk(name="Mac OS 8.0 HD.dsk")
 
+MAC_OS_86 = Disk(name="System 8.6.dsk")
+
 MAC_OS_81 = Disk(name="Mac OS 8.1 HD.dsk")
 
 MAC_OS_81_DISK_TOOLS_68K = Disk(name="Mac OS 8.1 Disk Tools 68K FD.dsk")
